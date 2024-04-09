@@ -39,6 +39,10 @@ section {
     padding: 20px;
 }
 
+imagem-time {
+    width: 50%;
+}
+
 footer {
     background-color: #333;
     color: #fff;
